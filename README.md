@@ -15,7 +15,7 @@ The code is organized into three main folders:
 
 3.Extension on GLM Model: This folder contains the results for the GLM model presented in the Supplementary Material.
 
-
+4.Additional Exprements：This folder contains scripts for some additional experimental results.
 
 Guides for the codes in folder \code\DIMOC
 =========================================
